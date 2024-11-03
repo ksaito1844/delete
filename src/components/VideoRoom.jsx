@@ -5,7 +5,7 @@ import { VideoPlayer } from './VideoPlayer';
 const APP_ID = '66511a82f58d4ee98e6748544394a6bd';
 const TOKEN =
   'c6a40c74794b41d49467de148fd4bc10';
-const CHANNEL = 'wdj';
+const CHANNEL = 'voicechat';
 
 AgoraRTC.setLogLevel(4);
 
